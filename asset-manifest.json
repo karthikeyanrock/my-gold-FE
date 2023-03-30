@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-gold-FE/static/css/main.dc2876f8.css",
+    "main.js": "/my-gold-FE/static/js/main.2ebceef5.js",
+    "index.html": "/my-gold-FE/index.html",
+    "main.dc2876f8.css.map": "/my-gold-FE/static/css/main.dc2876f8.css.map",
+    "main.2ebceef5.js.map": "/my-gold-FE/static/js/main.2ebceef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc2876f8.css",
+    "static/js/main.2ebceef5.js"
+  ]
+}
